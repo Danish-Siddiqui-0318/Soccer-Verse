@@ -5,7 +5,7 @@ export const soccerPlayers = [
     age: 36,
     nationality: "Argentina",
     position: "Forward",
-    imageUrl: "https://example.com/messi.jpg",
+    imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/soccer/players/full/45843.png&w=350&h=254",
     description:
       "Lionel Messi, born in Rosario, Argentina, is often regarded as the greatest footballer of all time. He has won seven Ballon d'Or awards and led Argentina to victory in the 2022 FIFA World Cup. Messi has also had an illustrious club career with Barcelona and Paris Saint-Germain, breaking numerous records, including the most goals in La Liga history.",
   },
@@ -15,7 +15,7 @@ export const soccerPlayers = [
     age: 39,
     nationality: "Portugal",
     position: "Forward",
-    imageUrl: "https://example.com/ronaldo.jpg",
+    imageUrl: "https://hips.hearstapps.com/hmg-prod/images/gettyimages-971463110.jpg?crop=1xw:1.0xh;center,top&resize=640:*",
     description:
       "Cristiano Ronaldo, from Madeira, Portugal, is one of the most accomplished footballers in history. He has won five Ballon d'Or awards and numerous UEFA Champions League titles. Known for his athleticism and goal-scoring ability, Ronaldo has had successful stints at Manchester United, Real Madrid, Juventus, and Al-Nassr.",
   },
@@ -25,7 +25,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Brazil",
     position: "Forward",
-    imageUrl: "https://example.com/neymar.jpg",
+    imageUrl: "https://i.pinimg.com/736x/40/bc/84/40bc84e9dd6ef96be1bdc7ad66426954.jpg",
     description:
       "Neymar Jr., hailing from Mogi das Cruzes, Brazil, is a dynamic forward known for his dribbling, creativity, and flair. He has played for top clubs like Barcelona and Paris Saint-Germain and has won multiple domestic titles. Neymar is also one of Brazil's all-time leading goal scorers.",
   },
@@ -35,7 +35,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "France",
     position: "Forward",
-    imageUrl: "https://example.com/mbappe.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Hs97DM3GCIDksNh8LM9jP69cXhRidDZG9w&s",
     description:
       "Kylian Mbappe, from Bondy, France, is one of the fastest and most talented forwards in world football. He was instrumental in France's 2018 FIFA World Cup victory and has won multiple Ligue 1 titles with Paris Saint-Germain. Mbappe is known for his blistering pace, finishing, and ability to perform in big games.",
   },
@@ -45,7 +45,7 @@ export const soccerPlayers = [
     age: 33,
     nationality: "Belgium",
     position: "Midfielder",
-    imageUrl: "https://example.com/debruyne.jpg",
+    imageUrl: "https://www.mancity.com/meta/media/rhxfgi4x/kevin-de-bruyne.png",
     description:
       "Kevin De Bruyne, born in Drongen, Belgium, is one of the best playmakers in football. His vision, passing, and ability to dictate games from midfield have made him a key player for Manchester City, where he has won multiple Premier League titles. De Bruyne is also a crucial figure for the Belgian national team.",
   },
@@ -55,7 +55,7 @@ export const soccerPlayers = [
     age: 35,
     nationality: "Poland",
     position: "Forward",
-    imageUrl: "https://example.com/lewandowski.jpg",
+    imageUrl: "https://www.fcbarcelona.com/photo-resources/2023/10/04/22dd0d30-d58f-448c-a51e-47d44c894d16/mini_09-ROBERT_LEWANDOWSKI.png?width=670&height=790",
     description:
       "Robert Lewandowski, from Warsaw, Poland, is a prolific goal-scorer and one of the best strikers in the world. He has been the Bundesliga's top scorer multiple times and was named FIFA Best Men's Player in 2020. Lewandowski has won numerous league titles with Bayern Munich and Barcelona.",
   },
@@ -65,7 +65,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Netherlands",
     position: "Defender",
-    imageUrl: "https://example.com/vandijk.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9PAT6Q-CPX6K74-0IgwezWwFRWsvCGD-qA&s",
     description:
       "Virgil van Dijk, from Breda, Netherlands, is considered one of the best central defenders in football. He played a pivotal role in Liverpool's UEFA Champions League victory in 2019 and their Premier League title in 2020. Van Dijk is known for his leadership, aerial ability, and composure on the ball.",
   },
@@ -75,7 +75,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Egypt",
     position: "Forward",
-    imageUrl: "https://example.com/salah.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYbzspxa0tdtDvLb5BWPO5pLupo_6Du1zPA&s",
     description:
       "Mohamed Salah, from Nagrig, Egypt, is a world-class forward known for his speed, dribbling, and goal-scoring prowess. He has won multiple Premier League Golden Boots and helped Liverpool win the UEFA Champions League in 2019. Salah is also the all-time top scorer for the Egyptian national team.",
   },
@@ -85,7 +85,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "England",
     position: "Forward",
-    imageUrl: "https://example.com/kane.jpg",
+    imageUrl: "https://i.pinimg.com/736x/b7/34/4a/b7344a2045b7ee010d8b0b06d0819c14.jpg",
     description:
       "Harry Kane, from London, England, is one of the Premier League's most consistent goal scorers. He has won multiple Golden Boots and captained England to the 2018 World Cup semi-finals and the Euro 2020 final. Kane is known for his finishing, positioning, and leadership on the pitch.",
   },
@@ -95,7 +95,7 @@ export const soccerPlayers = [
     age: 38,
     nationality: "Spain",
     position: "Defender",
-    imageUrl: "https://example.com/ramos.jpg",
+    imageUrl: "https://i.pinimg.com/564x/f5/79/1b/f5791bcdcc504345ba2368c3a19fcf63.jpg",
     description:
       "Sergio Ramos, from Camas, Spain, is a legendary defender known for his leadership, physicality, and knack for scoring crucial goals. He has won numerous UEFA Champions League titles with Real Madrid and captained Spain to victory in the 2010 World Cup and Euro 2008 and 2012.",
   },
@@ -105,7 +105,7 @@ export const soccerPlayers = [
     age: 38,
     nationality: "Croatia",
     position: "Midfielder",
-    imageUrl: "https://example.com/modric.jpg",
+    imageUrl: "https://i.pinimg.com/564x/9f/91/60/9f9160f6cc2c23e813012cda957cd2f7.jpg",
     description:
       "Luka Modric, born in Zadar, Croatia, is one of the finest midfielders of his generation. He led Croatia to the 2018 FIFA World Cup final and won the Ballon d'Or that same year. Modric has been a key player for Real Madrid, winning multiple UEFA Champions League titles.",
   },
@@ -115,7 +115,7 @@ export const soccerPlayers = [
     age: 34,
     nationality: "Germany",
     position: "Midfielder",
-    imageUrl: "https://example.com/kroos.jpg",
+    imageUrl: "https://i.pinimg.com/564x/ca/d9/08/cad908e5c0beb6f2daada7a2b769babd.jpg",
     description:
       "Toni Kroos, from Greifswald, Germany, is a midfield maestro known for his passing and set-piece ability. He has won multiple UEFA Champions League titles with Real Madrid and was part of the German squad that won the 2014 FIFA World Cup.",
   },
@@ -125,7 +125,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "Brazil",
     position: "Goalkeeper",
-    imageUrl: "https://example.com/alisson.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPSoonXKcZe-YkIWkiJ5ZBDn777pW0O61wQ&s",
     description:
       "Alisson Becker, from Novo Hamburgo, Brazil, is one of the best goalkeepers in the world. He has won the Premier League and UEFA Champions League with Liverpool and the Copa America with Brazil. Alisson is known for his shot-stopping, distribution, and calmness under pressure.",
   },
@@ -135,7 +135,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Belgium",
     position: "Goalkeeper",
-    imageUrl: "https://example.com/courtois.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_4VXxTt_D5P6dLmQTQt7WlNr4fCjbYxQBlg&s",
     description:
       "Thibaut Courtois, from Bree, Belgium, is a top-class goalkeeper known for his height, reflexes, and commanding presence in the box. He has won domestic titles in Spain and England and was instrumental in Belgium's third-place finish at the 2018 FIFA World Cup.",
   },
@@ -145,7 +145,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "France",
     position: "Midfielder",
-    imageUrl: "https://example.com/pogba.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFFqew7e_oS7AY4komGoc_0yxN3MVyC5pH8g&s",
     description:
       "Paul Pogba, born in Lagny-sur-Marne, France, is a dynamic midfielder known for his skill, passing, and versatility. He was a key player in France's 2018 FIFA World Cup victory and has won multiple league titles with Juventus.",
   },
@@ -155,7 +155,7 @@ export const soccerPlayers = [
     age: 36,
     nationality: "France",
     position: "Forward",
-    imageUrl: "https://example.com/benzema.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51zyHRZpevo_8goxcnLAVoG-pDTFRxFJqdg&s",
     description:
       "Karim Benzema, from Lyon, France, is a prolific striker known for his technical ability and finishing. He has won multiple UEFA Champions League titles with Real Madrid and was awarded the 2022 Ballon d'Or after a standout season.",
   },
@@ -165,7 +165,7 @@ export const soccerPlayers = [
     age: 29,
     nationality: "Germany",
     position: "Midfielder",
-    imageUrl: "https://example.com/kimmich.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAWS0AUyCDPJA-K0VDd1wHDomMl1_Q6kwWgw&s",
     description:
       "Joshua Kimmich, from Rottweil, Germany, is a versatile midfielder and defender. Known for his intelligence and work rate, he has been a key player for Bayern Munich, helping them win numerous Bundesliga titles and the UEFA Champions League.",
   },
@@ -175,7 +175,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "England",
     position: "Defender",
-    imageUrl: "https://example.com/alexander-arnold.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScnwrdffoJn1CTo69nHBla33zVZVNkLMexTA&s",
     description:
       "Trent Alexander-Arnold, from Liverpool, England, is one of the best right-backs in football. He is known for his crossing, passing, and set-piece ability. He has won the Premier League and UEFA Champions League with Liverpool.",
   },
@@ -185,7 +185,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Senegal",
     position: "Forward",
-    imageUrl: "https://example.com/mane.jpg",
+    imageUrl: "https://i0.wp.com/anfieldwatch.co.uk/wp-content/uploads/2021/10/Mane.png?fit=500%2C500&quality=99&ssl=1",
     description:
       "Sadio Mane, from Bambali, Senegal, is a fast and skillful forward known for his goal-scoring ability and work ethic. He has won the Premier League and UEFA Champions League with Liverpool and led Senegal to victory in the 2022 Africa Cup of Nations.",
   },
@@ -195,7 +195,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "Belgium",
     position: "Forward",
-    imageUrl: "https://example.com/lukaku.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBUsWp58zlvjqcGy0tDvTip5PbgmVXAXwBnw&s",
     description:
       "Romelu Lukaku, from Antwerp, Belgium, is a powerful striker known for his physicality and finishing. He has played for top clubs across Europe and is Belgium's all-time top goal scorer. Lukaku has won domestic titles in Italy and England.",
   },
@@ -205,7 +205,7 @@ export const soccerPlayers = [
     age: 29,
     nationality: "England",
     position: "Forward",
-    imageUrl: "https://example.com/sterling.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-asw6QzuFfQb-az4kbPofYx-w56jwbX3AzQ&s",
     description:
       "Raheem Sterling, from Kingston, Jamaica, is a quick and skillful forward known for his dribbling and goal-scoring ability. He has won multiple Premier League titles with Manchester City and has been a key player for the England national team.",
   },
@@ -215,7 +215,7 @@ export const soccerPlayers = [
     age: 38,
     nationality: "Germany",
     position: "Goalkeeper",
-    imageUrl: "https://example.com/neuer.jpg",
+    imageUrl: "https://i.pinimg.com/736x/86/f0/a4/86f0a42539d3a65c56192349ca2724c8.jpg",
     description:
       "Manuel Neuer, from Gelsenkirchen, Germany, is one of the greatest goalkeepers of all time. Known for his sweeping style of play, he has won multiple Bundesliga titles with Bayern Munich and was instrumental in Germany's 2014 FIFA World Cup triumph.",
   },
@@ -225,7 +225,7 @@ export const soccerPlayers = [
     age: 33,
     nationality: "France",
     position: "Midfielder",
-    imageUrl: "https://example.com/kante.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWu7mrlGoREK0SbwxgG__WSx5OYJ50cNsNPQ&s",
     description:
       "N'Golo Kante, from Paris, France, is a hardworking midfielder known for his incredible stamina and ball-winning ability. He has won Premier League titles with Leicester City and Chelsea and was a key player in France's 2018 World Cup victory.",
   },
@@ -235,7 +235,7 @@ export const soccerPlayers = [
     age: 33,
     nationality: "France",
     position: "Forward",
-    imageUrl: "https://example.com/griezmann.jpg",
+    imageUrl: "https://i.pinimg.com/474x/b6/41/af/b641af088c8b2151924ff9ce9b2b2532.jpg",
     description:
       "Antoine Griezmann, from Macon, France, is a creative forward known for his technical ability and goal-scoring. He was a key player in France's 2018 World Cup victory and has played for top clubs like Atletico Madrid and Barcelona.",
   },
@@ -245,7 +245,7 @@ export const soccerPlayers = [
     age: 37,
     nationality: "Spain",
     position: "Defender",
-    imageUrl: "https://example.com/pique.jpg",
+    imageUrl: "https://i.pinimg.com/736x/10/a3/a8/10a3a87b33bfbb52f405da38670308b3.jpg",
     description:
       "Gerard Pique, from Barcelona, Spain, is a legendary defender who has won numerous titles with Barcelona, including multiple UEFA Champions League and La Liga titles. He was also part of Spain's victorious 2010 World Cup and Euro 2012 teams.",
   },
@@ -255,7 +255,7 @@ export const soccerPlayers = [
     age: 37,
     nationality: "Uruguay",
     position: "Forward",
-    imageUrl: "https://example.com/cavani.jpg",
+    imageUrl: "https://i.pinimg.com/736x/cb/12/bf/cb12bfcf1a3128185fb8fa3f7a83c338.jpg",
     description:
       "Edinson Cavani, from Salto, Uruguay, is a prolific striker known for his work rate and finishing. He has played for top clubs across Europe, including Paris Saint-Germain and Manchester United, and is one of Uruguay's all-time leading goal scorers.",
   },
@@ -265,7 +265,7 @@ export const soccerPlayers = [
     age: 32,
     nationality: "Spain",
     position: "Forward",
-    imageUrl: "https://example.com/moreno.jpg",
+    imageUrl: "https://www.footballdatabase.eu/images/photos/players/2021-2022/a_132/132374.jpg",
     description:
       "Gerard Moreno, from Santa Perpetua de Mogoda, Spain, is a talented forward known for his goal-scoring ability. He has been a key player for Villarreal and played a vital role in their 2021 UEFA Europa League triumph.",
   },
@@ -275,7 +275,7 @@ export const soccerPlayers = [
     age: 33,
     nationality: "Senegal",
     position: "Defender",
-    imageUrl: "https://example.com/koulibaly.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDrPLXdGB16SsLmg4IcJQXUOMm1NylXWrVeQ&s",
     description:
       "Kalidou Koulibaly, from Saint-Die-des-Vosges, France, is a strong and commanding central defender. He has been one of the top defenders in Serie A with Napoli and played a key role in Senegal's 2022 Africa Cup of Nations victory.",
   },
@@ -285,7 +285,7 @@ export const soccerPlayers = [
     age: 35,
     nationality: "Gabon",
     position: "Forward",
-    imageUrl: "https://example.com/aubameyang.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6F76tZoetm-eelpFtsy_IvPDuXR300YkhBg&s",
     description:
       "Pierre-Emerick Aubameyang, from Laval, France, is a quick and clinical forward known for his goal-scoring ability. He has won the Premier League Golden Boot and played for top clubs like Arsenal, Borussia Dortmund, and Barcelona.",
   },
@@ -295,7 +295,7 @@ export const soccerPlayers = [
     age: 35,
     nationality: "Germany",
     position: "Defender",
-    imageUrl: "https://example.com/hummels.jpg",
+    imageUrl: "https://i.pinimg.com/474x/5d/75/0d/5d750dd0bf9331092eaa59d7bad1d3df.jpg",
     description:
       "Mats Hummels, from Bergisch Gladbach, Germany, is a commanding central defender known for his leadership and ability to read the game. He has won multiple Bundesliga titles with Borussia Dortmund and Bayern Munich and was a key player in Germany's 2014 World Cup victory.",
   },
@@ -305,7 +305,7 @@ export const soccerPlayers = [
     age: 27,
     nationality: "Netherlands",
     position: "Midfielder",
-    imageUrl: "https://example.com/dejong.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE5uNPavhXNjHeo7xrIz1VK792UMpk7kWu5g&s",
     description:
       "Frenkie de Jong, from Arkel, Netherlands, is a talented midfielder known for his dribbling, vision, and passing ability. He has been a key player for Barcelona and the Dutch national team, helping them reach the UEFA Nations League final in 2019.",
   },
@@ -315,7 +315,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "Morocco",
     position: "Defender",
-    imageUrl: "https://example.com/hakimi.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMk0KyVEe-kbofkHo4dyr-yheU3CL5mZ03fQ&s",
     description:
       "Achraf Hakimi, from Madrid, Spain, is a versatile right-back known for his speed, crossing, and attacking contributions. He has won league titles in Italy, Germany, and France and played a key role in Morocco's historic run to the 2022 World Cup semifinals.",
   },
@@ -325,7 +325,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "United States",
     position: "Forward",
-    imageUrl: "https://example.com/pulisic.jpg",
+    imageUrl: "https://cdn.sanity.io/images/oyf3dba6/production/88244aa9b6e2ea8b9a0eacce5465d1c8733fe83e-580x580.jpg",
     description:
       "Christian Pulisic, from Hershey, Pennsylvania, is one of the top American soccer players. Known for his dribbling and speed, he has played for top clubs like Chelsea and AC Milan and helped the United States win the 2021 CONCACAF Nations League.",
   },
@@ -335,7 +335,7 @@ export const soccerPlayers = [
     age: 29,
     nationality: "Portugal",
     position: "Midfielder",
-    imageUrl: "https://example.com/fernandes.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX74OofF4vz3JutvhzOKVfhmWY1HOGU5mEKg&s",
     description:
       "Bruno Fernandes, from Maia, Portugal, is a creative and goal-scoring midfielder known for his passing and leadership. He has been a key player for Manchester United and the Portuguese national team, winning the UEFA Nations League in 2019.",
   },
@@ -345,7 +345,7 @@ export const soccerPlayers = [
     age: 27,
     nationality: "Portugal",
     position: "Defender",
-    imageUrl: "https://example.com/dias.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY1iJpcN2uwgSQ7D2VSJNz0NrhENCXObrZPw&s",
     description:
       "Ruben Dias, from Amadora, Portugal, is a strong and reliable central defender. He has been a key player for Manchester City, helping them win the Premier League, and has been an important part of the Portuguese national team's defense.",
   },
@@ -355,7 +355,7 @@ export const soccerPlayers = [
     age: 24,
     nationality: "England",
     position: "Midfielder",
-    imageUrl: "https://example.com/foden.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhlFbbgiMAcyqR_bnvPlis_GNe-5pY5-gLA&s",
     description:
       "Phil Foden, from Stockport, England, is a talented midfielder known for his dribbling and creativity. He has won multiple Premier League titles with Manchester City and is considered one of England's brightest young talents.",
   },
@@ -375,7 +375,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "Italy",
     position: "Midfielder",
-    imageUrl: "https://example.com/verratti.jpg",
+    imageUrl: "https://www.footballdatabase.eu/images/photos/players/2021-2022/a_115/115316.jpg",
     description:
       "Marco Verratti, from Pescara, Italy, is a technically gifted midfielder known for his vision and passing. He has won numerous domestic titles with Paris Saint-Germain and played a key role in Italy's victory at Euro 2020.",
   },
@@ -385,7 +385,7 @@ export const soccerPlayers = [
     age: 28,
     nationality: "Spain",
     position: "Midfielder",
-    imageUrl: "https://example.com/rodri.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9eY9gOdsvDG1eX2h9yR7kuFtdCxObIRoRSQ&s",
     description:
       "Rodri, from Madrid, Spain, is a solid defensive midfielder known for his positioning and passing. He has been a key player for Manchester City, helping them win the Premier League, and has established himself as a regular in the Spanish national team.",
   },
@@ -395,7 +395,7 @@ export const soccerPlayers = [
     age: 30,
     nationality: "Argentina",
     position: "Forward",
-    imageUrl: "https://example.com/dybala.jpg",
+    imageUrl: "https://i.pinimg.com/736x/8a/27/e6/8a27e63ab33d66b80e3840634f10ee3e.jpg",
     description:
       "Paulo Dybala, from Laguna Larga, Argentina, is a creative forward known for his dribbling and finishing. He has played for top clubs like Juventus and AS Roma and has won numerous domestic titles. Dybala was part of Argentina's victorious 2022 World Cup squad.",
   },
@@ -405,7 +405,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "Italy",
     position: "Goalkeeper",
-    imageUrl: "https://example.com/donnarumma.jpg",
+    imageUrl: "https://e7.pngegg.com/pngimages/522/990/png-clipart-gianluigi-donnarumma-a-c-milan-fifa-16-fifa-17-fifa-18-id-miscellaneous-tshirt-thumbnail.png",
     description:
       "Gianluigi Donnarumma, from Castellammare di Stabia, Italy, is a talented goalkeeper known for his shot-stopping ability. He won the Player of the Tournament award at Euro 2020, where Italy emerged as champions. Donnarumma has played for top clubs like AC Milan and Paris Saint-Germain.",
   },
@@ -415,7 +415,7 @@ export const soccerPlayers = [
     age: 39,
     nationality: "Brazil",
     position: "Defender",
-    imageUrl: "https://example.com/silva.jpg",
+    imageUrl: "https://i.pinimg.com/736x/72/22/18/722218db434dbf896111f622652861ff.jpg",
     description:
       "Thiago Silva, from Rio de Janeiro, Brazil, is a veteran central defender known for his leadership and defensive skills. He has won domestic titles in Brazil, Italy, France, and England and played a key role in Brazil's Copa America triumph in 2019.",
   },
@@ -425,7 +425,7 @@ export const soccerPlayers = [
     age: 29,
     nationality: "Germany",
     position: "Midfielder",
-    imageUrl: "https://example.com/goretzka.jpg",
+    imageUrl: "https://i.pinimg.com/474x/b1/56/2b/b1562b87caeaf56131993704beb90485.jpg",
     description:
       "Leon Goretzka, from Bochum, Germany, is a dynamic midfielder known for his physicality and goal-scoring ability. He has been a key player for Bayern Munich, helping them win multiple Bundesliga titles and the UEFA Champions League.",
   },
@@ -435,7 +435,7 @@ export const soccerPlayers = [
     age: 34,
     nationality: "Spain",
     position: "Defender",
-    imageUrl: "https://example.com/azpilicueta.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8aNOOHilQPu20Ctzj7ZNiGd4nLVqmnWWiag&s",
     description:
       "Cesar Azpilicueta, from Pamplona, Spain, is a versatile defender known for his consistency and leadership. He has won multiple domestic and European titles with Chelsea and has been a regular for the Spanish national team.",
   },
@@ -445,7 +445,7 @@ export const soccerPlayers = [
     age: 30,
     nationality: "Portugal",
     position: "Defender",
-    imageUrl: "https://example.com/cancelo.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-XWXMAASjuRWo2qZHoU1ILFd1R9cOvUimQ&s",
     description:
       "Joao Cancelo, from Barreiro, Portugal, is an attacking full-back known for his dribbling and crossing ability. He has won domestic titles in Italy, England, and Spain and has been a key player for the Portuguese national team.",
   },
@@ -455,7 +455,7 @@ export const soccerPlayers = [
     age: 31,
     nationality: "Morocco",
     position: "Midfielder",
-    imageUrl: "https://example.com/ziyech.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1l3iGY7Sl8SGyDb9dV1i5mHiHiocq0BFSSw&s",
     description:
       "Hakim Ziyech, from Dronten, Netherlands, is a creative midfielder known for his dribbling and playmaking. He has played for top clubs like Ajax and Chelsea and played a key role in Morocco's historic run to the 2022 World Cup semifinals.",
   },
@@ -465,7 +465,7 @@ export const soccerPlayers = [
     age: 21,
     nationality: "Spain",
     position: "Midfielder",
-    imageUrl: "https://example.com/pedri.jpg",
+    imageUrl: "https://i.pinimg.com/originals/49/e1/fc/49e1fc8598f95c7994a1b148192b75ee.png",
     description:
       "Pedri, from Tegueste, Spain, is one of the most promising young talents in football. Known for his vision and technical ability, he has been a key player for Barcelona and the Spanish national team, winning the Golden Boy award in 2021.",
   },
@@ -475,7 +475,7 @@ export const soccerPlayers = [
     age: 30,
     nationality: "Brazil",
     position: "Defender",
-    imageUrl: "https://example.com/marquinhos.jpg",
+    imageUrl: "https://www.footballdatabase.eu/images/photos/players/2018-2019/a_168/168495.jpg",
     description:
       "Marquinhos, from Sao Paulo, Brazil, is a versatile defender known for his leadership and defensive skills. He has won numerous domestic titles with Paris Saint-Germain and played a key role in Brazil's Copa America victory in 2019.",
   },
@@ -485,7 +485,7 @@ export const soccerPlayers = [
     age: 25,
     nationality: "Germany",
     position: "Forward",
-    imageUrl: "https://example.com/havertz.jpg",
+    imageUrl: "https://i.pinimg.com/564x/f5/79/a7/f579a74a73a0065dbf2cd8f7df49f315.jpg",
     description:
       "Kai Havertz, from Aachen, Germany, is a versatile forward known for his technical ability and intelligence. He scored the winning goal in the 2021 UEFA Champions League final for Chelsea and is considered one of Germany's brightest young talents.",
   },
@@ -495,7 +495,7 @@ export const soccerPlayers = [
     age: 28,
     nationality: "England",
     position: "Midfielder",
-    imageUrl: "https://example.com/grealish.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcGOAUgbgiyPeSYeDd__nFV6iEjEd49wdnw&s",
     description:
       "Jack Grealish, from Birmingham, England, is a creative midfielder known for his dribbling and flair. He has won multiple Premier League titles with Manchester City and has become a key player for the England national team.",
   },
@@ -1013,8 +1013,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Atletico Madrid",
     venue: "Camp Nou, Barcelona",
     competition: "La Liga",
-    imageUrl:
-      "https://i.pinimg.com/564x/75/c7/0b/75c70bf13f3d7324b17934cae94f40cc.jpg",
+    imageUrl: "https://example.com/barcelona-vs-atletico.jpg",
   },
   {
     id: 2,
@@ -1024,7 +1023,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Chelsea",
     venue: "Anfield, Liverpool",
     competition: "Premier League",
-    imageUrl: "https://example.com/liverpool-vs-chelsea.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhNGUu3ntuy3kpjUadPGwKWW7ynrbamH_YQ&s",
   },
   {
     id: 3,
@@ -1034,7 +1033,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Borussia Dortmund",
     venue: "Allianz Arena, Munich",
     competition: "Bundesliga",
-    imageUrl: "https://example.com/bayern-vs-dortmund.jpg",
+    imageUrl: "https://logowik.com/content/uploads/images/bundesliga7083.jpg",
   },
   {
     id: 4,
@@ -1044,7 +1043,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Marseille",
     venue: "Parc des Princes, Paris",
     competition: "Ligue 1",
-    imageUrl: "https://example.com/psg-vs-marseille.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEiW8tjiZG8j1t466z9iGOKPlMpHbS0XKEpg&s",
   },
   {
     id: 5,
@@ -1054,7 +1053,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Napoli",
     venue: "San Siro, Milan",
     competition: "Serie A",
-    imageUrl: "https://example.com/acmilan-vs-napoli.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgnsfLeiWXmP3qc5iQ-YGYlvLm0_jX7MW2Q&s",
   },
   {
     id: 6,
@@ -1064,7 +1063,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Lazio",
     venue: "Allianz Stadium, Turin",
     competition: "Serie A",
-    imageUrl: "https://example.com/juventus-vs-lazio.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgnsfLeiWXmP3qc5iQ-YGYlvLm0_jX7MW2Q&s",
   },
   {
     id: 7,
@@ -1074,7 +1073,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Roma",
     venue: "San Siro, Milan",
     competition: "Serie A",
-    imageUrl: "https://example.com/intermilan-vs-roma.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRgnsfLeiWXmP3qc5iQ-YGYlvLm0_jX7MW2Q&s",
   },
   {
     id: 8,
@@ -1084,8 +1083,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Sevilla",
     venue: "Santiago Bernabeu, Madrid",
     competition: "La Liga",
-    imageUrl:
-      "https://i.pinimg.com/564x/75/c7/0b/75c70bf13f3d7324b17934cae94f40cc.jpg",
+    imageUrl: "https://example.com/realmadrid-vs-sevilla.jpg",
   },
   {
     id: 9,
@@ -1095,7 +1093,7 @@ export const upcomingFootballMatches = [
     awayTeam: "Arsenal",
     venue: "Old Trafford, Manchester",
     competition: "Premier League",
-    imageUrl: "https://example.com/manutd-vs-arsenal.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOhNGUu3ntuy3kpjUadPGwKWW7ynrbamH_YQ&s",
   },
 ];
 
