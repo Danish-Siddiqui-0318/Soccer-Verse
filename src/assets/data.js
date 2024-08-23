@@ -1013,7 +1013,8 @@ export const upcomingFootballMatches = [
     awayTeam: "Atletico Madrid",
     venue: "Camp Nou, Barcelona",
     competition: "La Liga",
-    imageUrl: "https://example.com/barcelona-vs-atletico.jpg",
+    imageUrl:
+      "https://i.pinimg.com/564x/75/c7/0b/75c70bf13f3d7324b17934cae94f40cc.jpg",
   },
   {
     id: 2,
@@ -1083,7 +1084,8 @@ export const upcomingFootballMatches = [
     awayTeam: "Sevilla",
     venue: "Santiago Bernabeu, Madrid",
     competition: "La Liga",
-    imageUrl: "https://example.com/realmadrid-vs-sevilla.jpg",
+    imageUrl:
+      "https://i.pinimg.com/564x/75/c7/0b/75c70bf13f3d7324b17934cae94f40cc.jpg",
   },
   {
     id: 9,
@@ -1094,5 +1096,109 @@ export const upcomingFootballMatches = [
     venue: "Old Trafford, Manchester",
     competition: "Premier League",
     imageUrl: "https://example.com/manutd-vs-arsenal.jpg",
+  },
+];
+
+
+const top10SoccerPlayers = [
+  {
+    id: 1,
+    name: "Lionel Messi",
+    age: 37,
+    nationality: "Argentina",
+    position: "Forward",
+    imageUrl: "https://example.com/messi.jpg",
+    description:
+      "Lionel Messi is known for his exceptional dribbling, vision, and goal-scoring. He recently won the MLS All-Star Game MVP and continues to impress in MLS with Inter Miami.",
+  },
+  {
+    id: 2,
+    name: "Kylian Mbappe",
+    age: 25,
+    nationality: "France",
+    position: "Forward",
+    imageUrl: "https://example.com/mbappe.jpg",
+    description:
+      "Kylian Mbappe is renowned for his blistering pace, technical skills, and finishing ability. He remains a key player for PSG and the French national team.",
+  },
+  {
+    id: 3,
+    name: "Erling Haaland",
+    age: 23,
+    nationality: "Norway",
+    position: "Forward",
+    imageUrl: "https://example.com/haaland.jpg",
+    description:
+      "Erling Haaland is a prolific striker known for his physicality and goal-scoring prowess. He continues to break records in the Premier League and Champions League with Manchester City.",
+  },
+  {
+    id: 4,
+    name: "Robert Lewandowski",
+    age: 35,
+    nationality: "Poland",
+    position: "Forward",
+    imageUrl: "https://example.com/lewandowski.jpg",
+    description:
+      "Robert Lewandowski is a clinical forward known for his goal-scoring consistency. He has been a major force in La Liga and in European competitions with Barcelona.",
+  },
+  {
+    id: 5,
+    name: "Kevin De Bruyne",
+    age: 33,
+    nationality: "Belgium",
+    position: "Midfielder",
+    imageUrl: "https://example.com/debruyne.jpg",
+    description:
+      "Kevin De Bruyne is a world-class playmaker with exceptional passing and vision. He remains a key figure in Manchester City's midfield.",
+  },
+  {
+    id: 6,
+    name: "Karim Benzema",
+    age: 36,
+    nationality: "France",
+    position: "Forward",
+    imageUrl: "https://example.com/benzema.jpg",
+    description:
+      "Karim Benzema is known for his technical ability, finishing, and leadership. He won the Ballon d'Or in 2022 and continues to perform at a high level in the Saudi Pro League with Al-Ittihad.",
+  },
+  {
+    id: 7,
+    name: "Vinicius Junior",
+    age: 23,
+    nationality: "Brazil",
+    position: "Winger",
+    imageUrl: "https://example.com/vinicius-junior.jpg",
+    description:
+      "Vinicius Junior is an explosive winger with excellent dribbling and pace. He has become a central figure for Real Madrid and the Brazilian national team.",
+  },
+  {
+    id: 8,
+    name: "Mohamed Salah",
+    age: 32,
+    nationality: "Egypt",
+    position: "Forward",
+    imageUrl: "https://example.com/salah.jpg",
+    description:
+      "Mohamed Salah is known for his speed, dribbling, and goal-scoring. He continues to be a key player for Liverpool in the Premier League and European competitions.",
+  },
+  {
+    id: 9,
+    name: "Luka Modric",
+    age: 38,
+    nationality: "Croatia",
+    position: "Midfielder",
+    imageUrl: "https://example.com/modric.jpg",
+    description:
+      "Luka Modric is a highly skilled midfielder known for his vision and passing. He continues to play a crucial role for Real Madrid and the Croatian national team.",
+  },
+  {
+    id: 10,
+    name: "Jude Bellingham",
+    age: 21,
+    nationality: "England",
+    position: "Midfielder",
+    imageUrl: "https://example.com/bellingham.jpg",
+    description:
+      "Jude Bellingham is a young midfielder with exceptional talent and versatility. His performances have quickly established him as one of the top players in Europe with Real Madrid.",
   },
 ];

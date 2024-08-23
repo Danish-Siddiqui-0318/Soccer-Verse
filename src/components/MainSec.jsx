@@ -11,10 +11,19 @@ const MainSec = () => {
       />
       <div className="absolute left-4 sm:left-8 md:left-12 top-1/2 transform -translate-y-1/2">
         <h1 className="text-white text-2xl sm:text-4xl md:text-5xl font-bold">
-          Danish
+          Real Madrid Vs Barcelona
         </h1>
         <p className="text-white text-base sm:text-lg md:text-xl mt-4">
-          This is a sample paragraph text.
+          Date : 27 Oct 2024
+        </p>
+        <p className="text-white text-base sm:text-lg md:text-xl mt-4">
+         Time : 20:00
+        </p>
+        <p className="text-white text-base sm:text-lg md:text-xl mt-4">
+       Stadium : Santiago Bernabeu
+        </p>
+        <p className="text-white text-base sm:text-lg md:text-xl mt-4">
+       Live Score 0 : 0
         </p>
       </div>
     </div>
