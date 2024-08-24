@@ -4,7 +4,7 @@ import { soccerPlayers } from "../assets/data";
 import { Link } from "react-router-dom";
 
 const CardPlayer = () => {
-  const [dataLimit, setDataLimit] = useState(5git );
+  const [dataLimit, setDataLimit] = useState(5);
   const fetchMoreData = () => {
     if (dataLimit < soccerPlayers.length) {
       setDataLimit((prevLimit) => prevLimit + 6);
