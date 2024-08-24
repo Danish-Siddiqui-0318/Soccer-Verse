@@ -1237,7 +1237,7 @@ export const top10SoccerPlayers = [
     age: 37,
     nationality: "Argentina",
     position: "Forward",
-    imageUrl: "https://example.com/messi.jpg",
+    imageUrl: "https://i.pinimg.com/736x/e1/99/b6/e199b62fa712b6f85cdfc39d21030dca.jpg",
     description:
       "Lionel Messi is known for his exceptional dribbling, vision, and goal-scoring. He recently won the MLS All-Star Game MVP and continues to impress in MLS with Inter Miami.",
     rankingPoints: 95,
@@ -1251,7 +1251,7 @@ export const top10SoccerPlayers = [
     age: 25,
     nationality: "France",
     position: "Forward",
-    imageUrl: "https://example.com/mbappe.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIG7pXbE1vFFJ5BEJkfHJIDIQ1N-9uFusOJA&s",
     description:
       "Kylian Mbappe is renowned for his blistering pace, technical skills, and finishing ability. He remains a key player for PSG and the French national team.",
     rankingPoints: 92,
@@ -1265,7 +1265,7 @@ export const top10SoccerPlayers = [
     age: 23,
     nationality: "Norway",
     position: "Forward",
-    imageUrl: "https://example.com/haaland.jpg",
+    imageUrl: "https://cdn.shopify.com/s/files/1/0025/8863/9289/files/211386F5-FD06-4F3B-A8DC-769D583D9853_1024x1024.webp?v=1679001502",
     description:
       "Erling Haaland is a prolific striker known for his physicality and goal-scoring prowess. He continues to break records in the Premier League and Champions League with Manchester City.",
     rankingPoints: 90,
@@ -1279,7 +1279,7 @@ export const top10SoccerPlayers = [
     age: 35,
     nationality: "Poland",
     position: "Forward",
-    imageUrl: "https://example.com/lewandowski.jpg",
+    imageUrl: "https://e7.pngegg.com/pngimages/923/341/png-clipart-robert-lewandowski-poland-national-football-team-fc-bayern-munich-uefa-euro-2016-lewandowski-poland-tshirt-white.png",
     description:
       "Robert Lewandowski is a clinical forward known for his goal-scoring consistency. He has been a major force in La Liga and in European competitions with Barcelona.",
     rankingPoints: 88,
@@ -1293,7 +1293,7 @@ export const top10SoccerPlayers = [
     age: 33,
     nationality: "Belgium",
     position: "Midfielder",
-    imageUrl: "https://example.com/debruyne.jpg",
+    imageUrl: "https://www.mancity.com/meta/media/rhxfgi4x/kevin-de-bruyne.png",
     description:
       "Kevin De Bruyne is a world-class playmaker with exceptional passing and vision. He remains a key figure in Manchester City's midfield.",
     rankingPoints: 87,
@@ -1307,7 +1307,7 @@ export const top10SoccerPlayers = [
     age: 36,
     nationality: "France",
     position: "Forward",
-    imageUrl: "https://example.com/benzema.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTQxWHF68bqawsjwvIiTCD_GA7veLZB-U0eQ&s",
     description:
       "Karim Benzema is known for his technical ability, finishing, and leadership. He won the Ballon d'Or in 2022 and continues to perform at a high level in the Saudi Pro League with Al-Ittihad.",
     rankingPoints: 85,
@@ -1321,7 +1321,7 @@ export const top10SoccerPlayers = [
     age: 23,
     nationality: "Brazil",
     position: "Winger",
-    imageUrl: "https://example.com/vinicius-junior.jpg",
+    imageUrl: "https://i.pinimg.com/originals/45/8b/67/458b673d5914306c04c1d0b9c7ca4e44.png",
     description:
       "Vinicius Junior is an explosive winger with excellent dribbling and pace. He has become a central figure for Real Madrid and the Brazilian national team.",
     rankingPoints: 84,
@@ -1335,7 +1335,7 @@ export const top10SoccerPlayers = [
     age: 32,
     nationality: "Egypt",
     position: "Forward",
-    imageUrl: "https://example.com/salah.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIYbzspxa0tdtDvLb5BWPO5pLupo_6Du1zPA&s",
     description:
       "Mohamed Salah is known for his speed, dribbling, and goal-scoring. He continues to be a key player for Liverpool in the Premier League and European competitions.",
     rankingPoints: 83,
@@ -1349,7 +1349,7 @@ export const top10SoccerPlayers = [
     age: 38,
     nationality: "Croatia",
     position: "Midfielder",
-    imageUrl: "https://example.com/modric.jpg",
+    imageUrl: "https://i.pinimg.com/564x/9f/91/60/9f9160f6cc2c23e813012cda957cd2f7.jpg",
     description:
       "Luka Modric is a highly skilled midfielder known for his vision and passing. He continues to play a crucial role for Real Madrid and the Croatian national team.",
     rankingPoints: 82,
@@ -1363,7 +1363,7 @@ export const top10SoccerPlayers = [
     age: 21,
     nationality: "England",
     position: "Midfielder",
-    imageUrl: "https://example.com/bellingham.jpg",
+    imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTz_tXVgZ8HClzgLAM78gOTSFEfSpbUyMfow&s",
     description:
       "Jude Bellingham is a young midfielder with exceptional talent and versatility. His performances have quickly established him as one of the top players in Europe with Real Madrid.",
     rankingPoints: 81,
