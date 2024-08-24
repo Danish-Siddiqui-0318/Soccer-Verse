@@ -400,7 +400,8 @@ export const soccerPlayers = [
     age: 23,
     nationality: "Norway",
     position: "Forward",
-    imageUrl: "https://example.com/haaland.jpg",
+    imageUrl:
+      "https://b.fssta.com/uploads/application/soccer/headshots/66617.vresize.350.350.medium.77.png",
     description:
       "Erling Haaland, from Leeds, England, is a prolific goal-scorer known for his physicality and finishing. He has broken multiple goal-scoring records and won domestic titles in Germany and England, establishing himself as one of the top young strikers in the world.",
   },
@@ -553,344 +554,399 @@ export const soccerTeams = [
   {
     id: 1,
     country: "Argentina",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png",
     players: [
       {
         id: 1,
         name: "Lionel Messi",
         position: "Forward",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhbMccdvt2o0isNecrf_LpZ3qKiHBDw3RZA&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhbMccdvt2o0isNecrf_LpZ3qKiHBDw3RZA&s",
       },
       {
         id: 2,
         name: "Angel Di Maria",
         position: "Midfielder",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCuHh2qu56wOGlWAMmV6zMiQRddUPUfXLXA&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVCuHh2qu56wOGlWAMmV6zMiQRddUPUfXLXA&s",
       },
       {
         id: 3,
         name: "Lautaro Martinez",
         position: "Forward",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6IieRI-5l8vDpZrBYZgsnYBmJkKoMPqVIQ&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6IieRI-5l8vDpZrBYZgsnYBmJkKoMPqVIQ&s",
       },
     ],
   },
   {
     id: 2,
     country: "Brazil",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
     players: [
       {
         id: 4,
         name: "Neymar Jr.",
         position: "Forward",
-        imageUrl: "https://tmssl.akamaized.net/images/foto/galerie/neymar-jr-al-hilal-2023-1693996661-116041.jpg?lm=1693996705",
+        imageUrl:
+          "https://tmssl.akamaized.net/images/foto/galerie/neymar-jr-al-hilal-2023-1693996661-116041.jpg?lm=1693996705",
       },
       {
         id: 5,
         name: "Alisson Becker",
         position: "Goalkeeper",
-        imageUrl: "https://m.media-amazon.com/images/M/MV5BZjRkMmU4OTktMjMzYi00NjA1LWIwZjgtZjYwYTY3ZjdlNGI1XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_FMjpg_UX1000_.jpg",
+        imageUrl:
+          "https://m.media-amazon.com/images/M/MV5BZjRkMmU4OTktMjMzYi00NjA1LWIwZjgtZjYwYTY3ZjdlNGI1XkEyXkFqcGdeQXVyOTAyMDgxODQ@._V1_FMjpg_UX1000_.jpg",
       },
       {
         id: 6,
         name: "Casemiro",
         position: "Midfielder",
-        imageUrl: "https://i2-prod.mirror.co.uk/incoming/article33507490.ece/ALTERNATES/n615/0_GettyImages-2167189923.jpg",
+        imageUrl:
+          "https://i2-prod.mirror.co.uk/incoming/article33507490.ece/ALTERNATES/n615/0_GettyImages-2167189923.jpg",
       },
     ],
   },
   {
     id: 3,
     country: "France",
-    flagImageUrl: "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
+    flagImageUrl:
+      "https://cdn.britannica.com/82/682-004-F0B47FCB/Flag-France.jpg",
     players: [
       {
         id: 7,
         name: "Kylian Mbappe",
         position: "Forward",
-        imageUrl: "https://img.etimg.com/thumb/width-640,height-480,imgsize-75278,resizemode-75,msid-112144642/news/international/us/real-madrids-kylian-mbappe-become-youngest-club-owner-in-european-football-history-know-the-inside-story/real-madrid-unveil-kylian-mbappe.jpg",
+        imageUrl:
+          "https://img.etimg.com/thumb/width-640,height-480,imgsize-75278,resizemode-75,msid-112144642/news/international/us/real-madrids-kylian-mbappe-become-youngest-club-owner-in-european-football-history-know-the-inside-story/real-madrid-unveil-kylian-mbappe.jpg",
       },
       {
         id: 8,
         name: "Karim Benzema",
         position: "Forward",
-        imageUrl: "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--d87c0847-5443-4641-9e08-7425288a549c/_330830945339.app.png?preferwebp=true&width=312",
+        imageUrl:
+          "https://publish-p47754-e237306.adobeaemcloud.com/adobe/dynamicmedia/deliver/dm-aid--d87c0847-5443-4641-9e08-7425288a549c/_330830945339.app.png?preferwebp=true&width=312",
       },
       {
         id: 9,
         name: "Antoine Griezmann",
         position: "Forward",
-        imageUrl: "https://e0.365dm.com/20/06/2048x1152/skysports-antoine-griezmann_5006432.jpg?20200605100557",
+        imageUrl:
+          "https://e0.365dm.com/20/06/2048x1152/skysports-antoine-griezmann_5006432.jpg?20200605100557",
       },
     ],
   },
   {
     id: 4,
     country: "Germany",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png",
     players: [
       {
         id: 10,
         name: "Manuel Neuer",
         position: "Goalkeeper",
-        imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg/800px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg",
+        imageUrl:
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg/800px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Manuel_Neuer_850_0723.jpg",
       },
       {
         id: 11,
         name: "Toni Kroos",
         position: "Midfielder",
-        imageUrl: "https://campus-cdhk.oss-cn-hongkong.aliyuncs.com/attachments/image/2024/02/24/ed02da4d-0a34-48b0-8375-d4e41481d1b0.jpg",
+        imageUrl:
+          "https://campus-cdhk.oss-cn-hongkong.aliyuncs.com/attachments/image/2024/02/24/ed02da4d-0a34-48b0-8375-d4e41481d1b0.jpg",
       },
       {
         id: 12,
         name: "Joshua Kimmich",
         position: "Midfielder",
-        imageUrl: "https://www.coachesvoice.com/wp-content/webpc-passthru.php?src=https://www.coachesvoice.com/wp-content/uploads/2021/06/KimmichMobile.jpg&nocache=1",
+        imageUrl:
+          "https://www.coachesvoice.com/wp-content/webpc-passthru.php?src=https://www.coachesvoice.com/wp-content/uploads/2021/06/KimmichMobile.jpg&nocache=1",
       },
     ],
   },
   {
     id: 5,
     country: "Spain",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/8/89/Bandera_de_Espa%C3%B1a.svg",
     players: [
       {
         id: 13,
         name: "Sergio Ramos",
         position: "Defender",
-        imageUrl: "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/11/23/19/Real-Madrid.jpg",
+        imageUrl:
+          "https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/11/23/19/Real-Madrid.jpg",
       },
       {
         id: 14,
         name: "Pedri",
         position: "Midfielder",
-        imageUrl: "https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=1200&height=750",
+        imageUrl:
+          "https://www.fcbarcelona.com/photo-resources/2023/10/03/4b341216-a50a-4d80-95ff-5ca2e5dcf640/08-PEDRI.jpg?width=1200&height=750",
       },
       {
         id: 15,
         name: "Gavi",
         position: "Midfielder",
-        imageUrl: "https://www.fcbarcelona.com/photo-resources/2023/10/03/1a22465f-7e9b-463d-981a-908dd221dd88/30-GAVI_.jpg?width=1200&height=750",
+        imageUrl:
+          "https://www.fcbarcelona.com/photo-resources/2023/10/03/1a22465f-7e9b-463d-981a-908dd221dd88/30-GAVI_.jpg?width=1200&height=750",
       },
     ],
   },
   {
     id: 6,
     country: "Portugal",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1024px-Flag_of_Portugal.svg.png",
     players: [
       {
         id: 16,
         name: "Cristiano Ronaldo",
         position: "Forward",
-        imageUrl: "https://tmssl.akamaized.net/images/foto/galerie/cristiano-ronaldo-manchester-united-1636635187-74572.jpg?lm=1636635200",
+        imageUrl:
+          "https://tmssl.akamaized.net/images/foto/galerie/cristiano-ronaldo-manchester-united-1636635187-74572.jpg?lm=1636635200",
       },
       {
         id: 17,
         name: "Bernardo Silva",
         position: "Midfielder",
-        imageUrl: "https://i2-prod.mirror.co.uk/incoming/article32613284.ece/ALTERNATES/n615/0_GettyImages-2147888958.jpg",
+        imageUrl:
+          "https://i2-prod.mirror.co.uk/incoming/article32613284.ece/ALTERNATES/n615/0_GettyImages-2147888958.jpg",
       },
       {
         id: 18,
         name: "Bruno Fernandes",
         position: "Midfielder",
-        imageUrl: "https://images.daznservices.com/di/library/DAZN_News/e/47/bruno-fernandes_17d2uwfg3qzmc1uooqbouhikig.png?t=-1830752628",
+        imageUrl:
+          "https://images.daznservices.com/di/library/DAZN_News/e/47/bruno-fernandes_17d2uwfg3qzmc1uooqbouhikig.png?t=-1830752628",
       },
     ],
   },
   {
     id: 7,
     country: "England",
-    flagImageUrl: "https://t4.ftcdn.net/jpg/00/73/96/03/360_F_73960308_QF7KzcFIFHFb3HuPMYFIPI25d6m4cCHt.jpg",
+    flagImageUrl:
+      "https://t4.ftcdn.net/jpg/00/73/96/03/360_F_73960308_QF7KzcFIFHFb3HuPMYFIPI25d6m4cCHt.jpg",
     players: [
       {
         id: 19,
         name: "Harry Kane",
         position: "Forward",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCJesXoPePFa0L1e4yzU-767cbIocS1JTAQ&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOCJesXoPePFa0L1e4yzU-767cbIocS1JTAQ&s",
       },
       {
         id: 20,
         name: "Raheem Sterling",
         position: "Forward",
-        imageUrl: "https://static.independent.co.uk/2024/08/21/11/882b6c3730dc97f353a41ef16af102ffY29udGVudHNlYXJjaGFwaSwxNzI0MzE5NzMx-2.75048098.jpg",
+        imageUrl:
+          "https://static.independent.co.uk/2024/08/21/11/882b6c3730dc97f353a41ef16af102ffY29udGVudHNlYXJjaGFwaSwxNzI0MzE5NzMx-2.75048098.jpg",
       },
       {
         id: 21,
         name: "Phil Foden",
         position: "Midfielder",
-        imageUrl: "https://ichef.bbci.co.uk/news/2048/cpsprodpb/85aa/live/47176430-b058-11ee-beb5-e1400df560f2.jpg",
+        imageUrl:
+          "https://ichef.bbci.co.uk/news/2048/cpsprodpb/85aa/live/47176430-b058-11ee-beb5-e1400df560f2.jpg",
       },
     ],
   },
   {
     id: 8,
     country: "Belgium",
-    flagImageUrl: "https://thumbs.dreamstime.com/b/belgium-flag-vector-file-86276886.jpg",
+    flagImageUrl:
+      "https://thumbs.dreamstime.com/b/belgium-flag-vector-file-86276886.jpg",
     players: [
       {
         id: 22,
         name: "Kevin De Bruyne",
         position: "Midfielder",
-        imageUrl: "https://tmssl.akamaized.net/images/foto/galerie/de-bruyne-kevin-manchester-city-2023-2024-1705065571-126204.jpg?lm=1705065586",
+        imageUrl:
+          "https://tmssl.akamaized.net/images/foto/galerie/de-bruyne-kevin-manchester-city-2023-2024-1705065571-126204.jpg?lm=1705065586",
       },
       {
         id: 23,
         name: "Romelu Lukaku",
         position: "Forward",
-        imageUrl: "https://images2.minutemediacdn.com/image/upload/c_crop,w_5315,h_2989,x_0,y_120/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01hn02zrx7rk73335rxb.jpg",
+        imageUrl:
+          "https://images2.minutemediacdn.com/image/upload/c_crop,w_5315,h_2989,x_0,y_120/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/90min_en_international_web/01hn02zrx7rk73335rxb.jpg",
       },
       {
         id: 24,
         name: "Thibaut Courtois",
         position: "Goalkeeper",
-        imageUrl: "https://en.africatopsports.com/wp-content/uploads/2024/08/Thibaut-Courtois-1024x632.jpg",
+        imageUrl:
+          "https://en.africatopsports.com/wp-content/uploads/2024/08/Thibaut-Courtois-1024x632.jpg",
       },
     ],
   },
   {
     id: 9,
     country: "Italy",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png",
     players: [
       {
         id: 25,
         name: "Gianluigi Donnarumma",
         position: "Goalkeeper",
-        imageUrl: "https://tmssl.akamaized.net/images/foto/galerie/gianluigi-donnarumma-italia-1617714117-60150.jpg?lm=1617714137",
+        imageUrl:
+          "https://tmssl.akamaized.net/images/foto/galerie/gianluigi-donnarumma-italia-1617714117-60150.jpg?lm=1617714137",
       },
       {
         id: 26,
         name: "Marco Verratti",
         position: "Midfielder",
-        imageUrl: "https://icdn.football-espana.net/wp-content/uploads/2023/05/Screenshot-2023-05-17-224616.jpg",
+        imageUrl:
+          "https://icdn.football-espana.net/wp-content/uploads/2023/05/Screenshot-2023-05-17-224616.jpg",
       },
       {
         id: 27,
         name: "Federico Chiesa",
         position: "Forward",
-        imageUrl: "https://cdn.vox-cdn.com/thumbor/cFKY75T_Iph9mEVV-8BHTDN-iKI=/0x0:4798x3199/1200x800/filters:focal(1751x319:2517x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/73531376/2155254286.0.jpg",
+        imageUrl:
+          "https://cdn.vox-cdn.com/thumbor/cFKY75T_Iph9mEVV-8BHTDN-iKI=/0x0:4798x3199/1200x800/filters:focal(1751x319:2517x1085)/cdn.vox-cdn.com/uploads/chorus_image/image/73531376/2155254286.0.jpg",
       },
     ],
   },
   {
     id: 10,
     country: "Netherlands",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png",
     players: [
       {
         id: 28,
         name: "Virgil van Dijk",
         position: "Defender",
-        imageUrl: "https://prod-media.beinsports.com/image/1704200406216_c5ef93f8-06dd-4beb-a0ce-06fbaad1be31.jpg",
+        imageUrl:
+          "https://prod-media.beinsports.com/image/1704200406216_c5ef93f8-06dd-4beb-a0ce-06fbaad1be31.jpg",
       },
       {
         id: 29,
         name: "Frenkie de Jong",
         position: "Midfielder",
-        imageUrl: "https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=1200&height=750",
+        imageUrl:
+          "https://www.fcbarcelona.com/photo-resources/2023/10/03/d2214796-ebc8-4b1c-bb5d-37f2ce5883c7/21-FRENKIE_DE_JONG.jpg?width=1200&height=750",
       },
       {
         id: 30,
         name: "Memphis Depay",
         position: "Forward",
-        imageUrl: "https://external-preview.redd.it/rumor-suggesting-rbny-are-interested-in-memphis-depay-v0-va4PA18ASogkiSIEnjgVZk2s4Y4An8XnbbLhUO4kW34.jpg?width=640&crop=smart&auto=webp&s=5cc7abe6389cd269f05ce0d99fada1b530b2d720",
+        imageUrl:
+          "https://external-preview.redd.it/rumor-suggesting-rbny-are-interested-in-memphis-depay-v0-va4PA18ASogkiSIEnjgVZk2s4Y4An8XnbbLhUO4kW34.jpg?width=640&crop=smart&auto=webp&s=5cc7abe6389cd269f05ce0d99fada1b530b2d720",
       },
     ],
   },
   {
     id: 11,
     country: "Croatia",
-    flagImageUrl: "https://cdn.britannica.com/06/6206-050-4A54E70D/Flag-Croatia.jpg",
+    flagImageUrl:
+      "https://cdn.britannica.com/06/6206-050-4A54E70D/Flag-Croatia.jpg",
     players: [
       {
         id: 31,
         name: "Luka Modric",
         position: "Midfielder",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknrzCB0RAR5fgySKp4BfqzhodUliMKaqoKQ&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRknrzCB0RAR5fgySKp4BfqzhodUliMKaqoKQ&s",
       },
       {
         id: 32,
         name: "Ivan Perisic",
         position: "Forward",
-        imageUrl: "https://c8.alamy.com/comp/2BB5PPJ/ivan-perisic-bayern-munich-2BB5PPJ.jpg",
+        imageUrl:
+          "https://c8.alamy.com/comp/2BB5PPJ/ivan-perisic-bayern-munich-2BB5PPJ.jpg",
       },
       {
         id: 33,
         name: "Marcelo Brozovic",
         position: "Midfielder",
-        imageUrl: "https://phantom-marca.unidadeditorial.es/63c11d4d26bfa519bec9967e373d03a7/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/27/16878898888744.jpg",
+        imageUrl:
+          "https://phantom-marca.unidadeditorial.es/63c11d4d26bfa519bec9967e373d03a7/resize/828/f/jpg/assets/multimedia/imagenes/2023/06/27/16878898888744.jpg",
       },
     ],
   },
   {
     id: 12,
     country: "Uruguay",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/2560px-Flag_of_Uruguay.svg.png",
     players: [
       {
         id: 34,
         name: "Luis Suarez",
         position: "Forward",
-        imageUrl: "https://m.media-amazon.com/images/M/MV5BMjAwYmNiOTgtZmNlZS00NDdlLTliZTUtNTFlMWNjZTA0MWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+        imageUrl:
+          "https://m.media-amazon.com/images/M/MV5BMjAwYmNiOTgtZmNlZS00NDdlLTliZTUtNTFlMWNjZTA0MWJmXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
       },
       {
         id: 35,
         name: "Edinson Cavani",
         position: "Forward",
-        imageUrl: "https://assets.manutd.com/AssetPicker/images/0/0/15/38/993023/Edinson_Cavani_UEFA_photoshoot_41621862801322_medium.jpg",
+        imageUrl:
+          "https://assets.manutd.com/AssetPicker/images/0/0/15/38/993023/Edinson_Cavani_UEFA_photoshoot_41621862801322_medium.jpg",
       },
       {
         id: 36,
         name: "Federico Valverde",
         position: "Midfielder",
-        imageUrl: "https://assets.goal.com/images/v3/blt9aba6cc9447e60d3/Fede%20Valverde%20Uruguay%202024.jpg",
+        imageUrl:
+          "https://assets.goal.com/images/v3/blt9aba6cc9447e60d3/Fede%20Valverde%20Uruguay%202024.jpg",
       },
     ],
   },
   {
     id: 13,
     country: "Senegal",
-    flagImageUrl: "https://cdn.britannica.com/70/5070-050-8968E7E7/Flag-Senegal.jpg",
+    flagImageUrl:
+      "https://cdn.britannica.com/70/5070-050-8968E7E7/Flag-Senegal.jpg",
     players: [
       {
         id: 37,
         name: "Sadio Mane",
         position: "Forward",
-        imageUrl: "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/13/thumb_112237_default_news_size_5.jpeg",
+        imageUrl:
+          "https://d3j2s6hdd6a7rg.cloudfront.net/v2/uploads/media/default/0002/13/thumb_112237_default_news_size_5.jpeg",
       },
       {
         id: 38,
         name: "Kalidou Koulibaly",
         position: "Defender",
-        imageUrl: "https://i2-prod.football.london/incoming/article27205185.ece/ALTERNATES/s615/1_GettyImages-1481952858.jpg",
+        imageUrl:
+          "https://i2-prod.football.london/incoming/article27205185.ece/ALTERNATES/s615/1_GettyImages-1481952858.jpg",
       },
       {
         id: 39,
         name: "Edouard Mendy",
         position: "Goalkeeper",
-        imageUrl: "https://cdn.vox-cdn.com/thumbor/VV3t47tyfYAdlSw39gBK67-vxRk=/0x0:3655x5482/1200x800/filters:focal(1541x1062:2125x1646)/cdn.vox-cdn.com/uploads/chorus_image/image/72382946/1442285401.0.jpg",
+        imageUrl:
+          "https://cdn.vox-cdn.com/thumbor/VV3t47tyfYAdlSw39gBK67-vxRk=/0x0:3655x5482/1200x800/filters:focal(1541x1062:2125x1646)/cdn.vox-cdn.com/uploads/chorus_image/image/72382946/1442285401.0.jpg",
       },
     ],
   },
   {
     id: 14,
     country: "Mexico",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png",
     players: [
       {
         id: 40,
         name: "Hirving Lozano",
         position: "Forward",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9epbDUN0ENx58KMYUqneLJG2ehZ4eHP_9hw&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9epbDUN0ENx58KMYUqneLJG2ehZ4eHP_9hw&s",
       },
       {
         id: 41,
         name: "Guillermo Ochoa",
         position: "Goalkeeper",
-        imageUrl: "https://e1.365dm.com/10/12/480/ochoa_2539208.jpg?20101209095142",
+        imageUrl:
+          "https://e1.365dm.com/10/12/480/ochoa_2539208.jpg?20101209095142",
       },
       {
         id: 42,
@@ -903,7 +959,8 @@ export const soccerTeams = [
   {
     id: 15,
     country: "Japan",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
     players: [
       {
         id: 43,
@@ -915,26 +972,30 @@ export const soccerTeams = [
         id: 44,
         name: "Daichi Kamada",
         position: "Midfielder",
-        imageUrl: "https://cdn.mos.cms.futurecdn.net/LTUkGveceBbSHRVKhgKaSm.jpg",
+        imageUrl:
+          "https://cdn.mos.cms.futurecdn.net/LTUkGveceBbSHRVKhgKaSm.jpg",
       },
       {
         id: 45,
         name: "Maya Yoshida",
         position: "Defender",
-        imageUrl: "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/prd-league/ao112gyfe9mlfobliigj",
+        imageUrl:
+          "https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/f_auto/prd-league/ao112gyfe9mlfobliigj",
       },
     ],
   },
   {
     id: 16,
     country: "South Korea",
-    flagImageUrl: "https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg",
+    flagImageUrl:
+      "https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg",
     players: [
       {
         id: 46,
         name: "Son Heung-min",
         position: "Forward",
-        imageUrl: "https://www.footballdatabase.eu/images/photos/players/a_118/118783.jpg",
+        imageUrl:
+          "https://www.footballdatabase.eu/images/photos/players/a_118/118783.jpg",
       },
       {
         id: 47,
@@ -946,101 +1007,117 @@ export const soccerTeams = [
         id: 48,
         name: "Hwang Hee-chan",
         position: "Forward",
-        imageUrl: "https://www.uniquesg.com/wp-content/uploads/2021/10/hwang3.jpeg",
+        imageUrl:
+          "https://www.uniquesg.com/wp-content/uploads/2021/10/hwang3.jpeg",
       },
     ],
   },
   {
     id: 17,
     country: "USA",
-    flagImageUrl: "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
+    flagImageUrl:
+      "https://cdn.britannica.com/33/4833-004-828A9A84/Flag-United-States-of-America.jpg",
     players: [
       {
         id: 49,
         name: "Christian Pulisic",
         position: "Forward",
-        imageUrl: "https://people.com/thmb/aiY8jRVjG34fwjtMalg8IsmzGWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x9:721x11)/Christian-Pulisic-120122-6-022ef7772fbe42719eadc6c5d1b4b79d.jpg",
+        imageUrl:
+          "https://people.com/thmb/aiY8jRVjG34fwjtMalg8IsmzGWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x9:721x11)/Christian-Pulisic-120122-6-022ef7772fbe42719eadc6c5d1b4b79d.jpg",
       },
       {
         id: 50,
         name: "Weston McKennie",
         position: "Midfielder",
-        imageUrl: "https://cdn.sanity.io/images/oyf3dba6/production/1fa58058629eb42a7a8d84165170bcb736223aae-580x580.jpg",
+        imageUrl:
+          "https://cdn.sanity.io/images/oyf3dba6/production/1fa58058629eb42a7a8d84165170bcb736223aae-580x580.jpg",
       },
       {
         id: 51,
         name: "Tyler Adams",
         position: "Midfielder",
-        imageUrl: "https://a.espncdn.com/i/headshots/soccer/players/full/222776.png",
+        imageUrl:
+          "https://a.espncdn.com/i/headshots/soccer/players/full/222776.png",
       },
     ],
   },
   {
     id: 18,
     country: "Morocco",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/640px-Flag_of_Morocco.svg.png",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/640px-Flag_of_Morocco.svg.png",
     players: [
       {
         id: 52,
         name: "Hakim Ziyech",
         position: "Midfielder",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSYFt-5HNW8nV6jFf7ll6DtJ1YSgn98AB5A&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmSYFt-5HNW8nV6jFf7ll6DtJ1YSgn98AB5A&s",
       },
       {
         id: 53,
         name: "Achraf Hakimi",
         position: "Defender",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywlQR4cRQSIBmY4fiOY8cuYsKeuIy55DpZg&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQywlQR4cRQSIBmY4fiOY8cuYsKeuIy55DpZg&s",
       },
       {
         id: 54,
         name: "Yassine Bounou",
         position: "Goalkeeper",
-        imageUrl: "https://www.arabianbusiness.com/cloud/2023/02/07/Yassine-Bounou.jpg",
+        imageUrl:
+          "https://www.arabianbusiness.com/cloud/2023/02/07/Yassine-Bounou.jpg",
       },
     ],
   },
   {
     id: 19,
     country: "Australia",
-    flagImageUrl: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    flagImageUrl:
+      "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
     players: [
       {
         id: 55,
         name: "Mathew Ryan",
         position: "Goalkeeper",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1OScBNoQf1nRZ-ZN4ZBu5RXgFXPFCb91ng&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1OScBNoQf1nRZ-ZN4ZBu5RXgFXPFCb91ng&s",
       },
       {
         id: 56,
         name: "Aaron Mooy",
         position: "Midfielder",
-        imageUrl: "https://b.fssta.com/uploads/application/soccer/headshots/29532.vresize.350.350.medium.8.png",
+        imageUrl:
+          "https://b.fssta.com/uploads/application/soccer/headshots/29532.vresize.350.350.medium.8.png",
       },
       {
         id: 57,
         name: "Ajdin Hrustic",
         position: "Midfielder",
-        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7lX7jg7Dmd3xuXpl2tU8Iq52tMMznTgftQ&s",
+        imageUrl:
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7lX7jg7Dmd3xuXpl2tU8Iq52tMMznTgftQ&s",
       },
     ],
   },
   {
     id: 20,
     country: "Switzerland",
-    flagImageUrl: "https://content.app-sources.com/s/39330979433008693/uploads/store/Switzerland-flag-1-5957046.jpg",
+    flagImageUrl:
+      "https://content.app-sources.com/s/39330979433008693/uploads/store/Switzerland-flag-1-5957046.jpg",
     players: [
       {
         id: 58,
         name: "Granit Xhaka",
         position: "Midfielder",
-        imageUrl: "https://www.telegraph.co.uk/content/dam/football/2023/05/16/TELEMMGLPICT000334817725_trans_NvBQzQNjv4Bqn6m7b93GszMwKvh_crFBhciA4emFrj7oeXcuS2jT5BA.jpeg?imwidth=680",
+        imageUrl:
+          "https://www.telegraph.co.uk/content/dam/football/2023/05/16/TELEMMGLPICT000334817725_trans_NvBQzQNjv4Bqn6m7b93GszMwKvh_crFBhciA4emFrj7oeXcuS2jT5BA.jpeg?imwidth=680",
       },
       {
         id: 59,
         name: "Xherdan Shaqiri",
         position: "Forward",
-        imageUrl: "https://a.espncdn.com/combiner/i?img=/i/headshots/soccer/players/full/136775.png",
+        imageUrl:
+          "https://a.espncdn.com/combiner/i?img=/i/headshots/soccer/players/full/136775.png",
       },
       {
         id: 60,

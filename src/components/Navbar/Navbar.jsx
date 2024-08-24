@@ -2,66 +2,69 @@
 
 import React from "react";
 import { Target } from "lucide-react";
+import { Link } from "react-router-dom";
 
-export function Navbar() {
+export default function Navbar({ className = "" }) {
   return (
-    <div className="relative w-full bg-white">
+    <div className={`relative w-full bg-white ${className}`}>
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
-        <div className="inline-flex items-center space-x-2">
-          <span>
-            <Target />
-          </span>
-          <span className="font-bold">Soccer-Verse</span>
-        </div>
+        <Link to="/">
+          <div className="inline-flex items-center space-x-2">
+            <span>
+              <Target />
+            </span>
+            <span className="font-bold">Soccer-Verse</span>
+          </div>
+        </Link>
         <div className="hidden lg:block">
           <ul className="ml-12 inline-flex space-x-8">
             <li>
               <a
-                href=""
+                to=""
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Live Score
               </a>
             </li>
             <li>
-              <a
-                href=""
+              <Link
+                to="/fixtures"
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Fixtures
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href=""
+              <Link
+                to="/players"
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Players
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href=""
+              <Link
+                to=""
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Rankings
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href=""
+              <Link
+                to=""
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Feedback
-              </a>
+              </Link>
             </li>
             <li>
-              <a
-                href=""
+              <Link
+                to=""
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Contact Us
-              </a>
+              </Link>
             </li>
           </ul>
         </div>

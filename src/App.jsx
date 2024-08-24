@@ -1,20 +1,27 @@
-import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
-import "./App.css";
-import { Navbar } from "./components/Navbar/Navbar";
-import MainSec from "./components/MainSec";
-import Fixtures from "./components/Fixtures";
-import Footer from "./components/Footer/Footer";
+import { createBrowserRouter } from "react-router-dom";
+import Home from "./pages/Home";
+import Players from "./pages/Players";
+import { RouterProvider } from "react-router-dom";
+import FixturesPage from "./pages/FixturesPage";
 function App() {
-  const [count, setCount] = useState(0);
+  const route = createBrowserRouter([
+    {
+      path: "/",
+      element: <Home />,
+    },
+    {
+      path: "/fixtures",
+      element: <FixturesPage />,
+    },
+    {
+      path: "/players",
+      element: <Players />,
+    },
+  ]);
 
   return (
     <>
-      <Navbar />
-      <MainSec />
-      <Fixtures />
-      <Footer />
+      <RouterProvider router={route} />
     </>
   );
 }
