@@ -5,6 +5,9 @@ import { RouterProvider } from "react-router-dom";
 import FixturesPage from "./pages/FixturesPage";
 import PlayerDetail from "./pages/PlayerDetail";
 import Rankings from "./pages/Rankings";
+import FeedbackForm from "./pages/FeedbackForm";
+import ContactUsForm from "./pages/ContactUsForm";
+
 function App() {
   const route = createBrowserRouter([
     {
@@ -26,6 +29,14 @@ function App() {
     {
       path: "/Ranking",
       element: <Rankings />,
+    },
+    {
+      path: "/FeedbackForm",
+      element: <FeedbackForm/>,
+    },
+    {
+      path: "/ContactUsForm",
+      element: <ContactUsForm/>,
     },
   ]);
 
