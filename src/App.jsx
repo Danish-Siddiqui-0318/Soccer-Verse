@@ -3,7 +3,7 @@ import Home from "./pages/Home";
 import Players from "./pages/Players";
 import { RouterProvider } from "react-router-dom";
 import FixturesPage from "./pages/FixturesPage";
-import PlayerDetail from "./components/PlayerDetail";
+import PlayerDetail from "./pages/PlayerDetail";
 function App() {
   const route = createBrowserRouter([
     {
@@ -19,7 +19,7 @@ function App() {
       element: <Players />,
     },
     {
-      path: "/PayerDetail/:id",
+      path: "/PlayerDetail/:id",
       element: <PlayerDetail/>,
     },
 

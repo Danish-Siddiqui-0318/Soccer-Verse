@@ -1230,7 +1230,7 @@ export const upcomingFootballMatches = [
   },
 ];
 
-const top10SoccerPlayers = [
+export const top10SoccerPlayers = [
   {
     id: 1,
     name: "Lionel Messi",
@@ -1240,6 +1240,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/messi.jpg",
     description:
       "Lionel Messi is known for his exceptional dribbling, vision, and goal-scoring. He recently won the MLS All-Star Game MVP and continues to impress in MLS with Inter Miami.",
+    rankingPoints: 95,
+    assists: 20,
+    goals: 35,
+    totalGoals: 750,
   },
   {
     id: 2,
@@ -1250,6 +1254,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/mbappe.jpg",
     description:
       "Kylian Mbappe is renowned for his blistering pace, technical skills, and finishing ability. He remains a key player for PSG and the French national team.",
+    rankingPoints: 92,
+    assists: 15,
+    goals: 30,
+    totalGoals: 250,
   },
   {
     id: 3,
@@ -1260,6 +1268,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/haaland.jpg",
     description:
       "Erling Haaland is a prolific striker known for his physicality and goal-scoring prowess. He continues to break records in the Premier League and Champions League with Manchester City.",
+    rankingPoints: 90,
+    assists: 10,
+    goals: 40,
+    totalGoals: 180,
   },
   {
     id: 4,
@@ -1270,6 +1282,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/lewandowski.jpg",
     description:
       "Robert Lewandowski is a clinical forward known for his goal-scoring consistency. He has been a major force in La Liga and in European competitions with Barcelona.",
+    rankingPoints: 88,
+    assists: 5,
+    goals: 30,
+    totalGoals: 600,
   },
   {
     id: 5,
@@ -1280,6 +1296,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/debruyne.jpg",
     description:
       "Kevin De Bruyne is a world-class playmaker with exceptional passing and vision. He remains a key figure in Manchester City's midfield.",
+    rankingPoints: 87,
+    assists: 25,
+    goals: 10,
+    totalGoals: 80,
   },
   {
     id: 6,
@@ -1290,6 +1310,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/benzema.jpg",
     description:
       "Karim Benzema is known for his technical ability, finishing, and leadership. He won the Ballon d'Or in 2022 and continues to perform at a high level in the Saudi Pro League with Al-Ittihad.",
+    rankingPoints: 85,
+    assists: 10,
+    goals: 25,
+    totalGoals: 450,
   },
   {
     id: 7,
@@ -1300,6 +1324,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/vinicius-junior.jpg",
     description:
       "Vinicius Junior is an explosive winger with excellent dribbling and pace. He has become a central figure for Real Madrid and the Brazilian national team.",
+    rankingPoints: 84,
+    assists: 15,
+    goals: 20,
+    totalGoals: 70,
   },
   {
     id: 8,
@@ -1310,6 +1338,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/salah.jpg",
     description:
       "Mohamed Salah is known for his speed, dribbling, and goal-scoring. He continues to be a key player for Liverpool in the Premier League and European competitions.",
+    rankingPoints: 83,
+    assists: 12,
+    goals: 22,
+    totalGoals: 200,
   },
   {
     id: 9,
@@ -1320,6 +1352,10 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/modric.jpg",
     description:
       "Luka Modric is a highly skilled midfielder known for his vision and passing. He continues to play a crucial role for Real Madrid and the Croatian national team.",
+    rankingPoints: 82,
+    assists: 18,
+    goals: 8,
+    totalGoals: 100,
   },
   {
     id: 10,
@@ -1330,5 +1366,9 @@ const top10SoccerPlayers = [
     imageUrl: "https://example.com/bellingham.jpg",
     description:
       "Jude Bellingham is a young midfielder with exceptional talent and versatility. His performances have quickly established him as one of the top players in Europe with Real Madrid.",
+    rankingPoints: 81,
+    assists: 12,
+    goals: 10,
+    totalGoals: 30,
   },
 ];

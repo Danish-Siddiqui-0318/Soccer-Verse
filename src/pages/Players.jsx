@@ -7,7 +7,7 @@ import CardPlayer from "../components/CardPlayer.jsx";
 const Players = () => {
   return (
     <div>
-      <Navbar className="border-b-8 border-black" />
+      <Navbar className="border-b-4" />
       <CardPlayer />
     </div>
   );
