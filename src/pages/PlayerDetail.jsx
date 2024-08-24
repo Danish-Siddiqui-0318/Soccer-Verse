@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { soccerPlayers } from "../assets/data";
 import Navbar from "../components/Navbar/Navbar";
-import { ChevronLeft, ChevronRight, Heart, Share } from "lucide-react";
 import Footer from "../components/Footer/Footer";
 
 const PlayerDetail = () => {

@@ -4,6 +4,7 @@ import Players from "./pages/Players";
 import { RouterProvider } from "react-router-dom";
 import FixturesPage from "./pages/FixturesPage";
 import PlayerDetail from "./pages/PlayerDetail";
+import Rankings from "./pages/Rankings";
 function App() {
   const route = createBrowserRouter([
     {
@@ -20,9 +21,12 @@ function App() {
     },
     {
       path: "/PlayerDetail/:id",
-      element: <PlayerDetail/>,
+      element: <PlayerDetail />,
     },
-
+    {
+      path: "/Ranking",
+      element: <Rankings />,
+    },
   ]);
 
   return (

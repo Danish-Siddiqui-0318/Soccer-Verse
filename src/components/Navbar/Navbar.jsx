@@ -44,7 +44,7 @@ export default function Navbar({ className = "" }) {
             </li>
             <li>
               <Link
-                to=""
+                to="/Ranking"
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Rankings
