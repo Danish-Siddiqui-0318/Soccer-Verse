@@ -3,6 +3,7 @@ import Home from "./pages/Home";
 import Players from "./pages/Players";
 import { RouterProvider } from "react-router-dom";
 import FixturesPage from "./pages/FixturesPage";
+import PlayerDetail from "./components/PlayerDetail";
 function App() {
   const route = createBrowserRouter([
     {
@@ -17,6 +18,11 @@ function App() {
       path: "/players",
       element: <Players />,
     },
+    {
+      path: "/PayerDetail/:id",
+      element: <PlayerDetail/>,
+    },
+
   ]);
 
   return (
