@@ -7,6 +7,7 @@ import PlayerDetail from "./pages/PlayerDetail";
 import Rankings from "./pages/Rankings";
 import FeedbackForm from "./pages/FeedbackForm";
 import ContactUsForm from "./pages/ContactUsForm";
+import LiveScroe from "./pages/LiveScroe";
 
 function App() {
   const route = createBrowserRouter([
@@ -32,11 +33,15 @@ function App() {
     },
     {
       path: "/FeedbackForm",
-      element: <FeedbackForm/>,
+      element: <FeedbackForm />,
     },
     {
       path: "/ContactUsForm",
-      element: <ContactUsForm/>,
+      element: <ContactUsForm />,
+    },
+    {
+      path: "/LiveScore",
+      element: <LiveScroe />,
     },
   ]);
 

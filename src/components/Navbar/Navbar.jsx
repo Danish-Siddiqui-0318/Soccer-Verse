@@ -19,12 +19,12 @@ export default function Navbar({ className = "" }) {
         <div className="hidden lg:block">
           <ul className="ml-12 inline-flex space-x-8">
             <li>
-              <a
-                to=""
+              <Link
+                to="/LiveScore"
                 className="inline-flex items-center text-sm font-semibold text-gray-800 hover:text-gray-900"
               >
                 Live Score
-              </a>
+              </Link>
             </li>
             <li>
               <Link

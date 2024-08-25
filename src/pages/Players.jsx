@@ -1,15 +1,18 @@
 import React from "react";
 import Navbar from "../components/Navbar/Navbar.jsx";
-import Fixtures from "../components/Fixtures.jsx";
 import CardPlayer from "../components/CardPlayer.jsx";
-// import FixtureCards from "../components/FixtureCards.jsx";
+import Footer from "../components/Footer/Footer.jsx";
 
 const Players = () => {
   return (
-    <div>
+    <>
       <Navbar className="border-b-4" />
+      <h1 className="text-center text-2xl mt-4">
+        Soccer Players From All Around the World
+      </h1>
       <CardPlayer />
-    </div>
+      <Footer />
+    </>
   );
 };
 

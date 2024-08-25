@@ -1,5 +1,6 @@
 import React from "react";
 import { Target } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -17,21 +18,39 @@ const Footer = () => {
         </div>
         <div className="mt-16 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
           <div className="mb-8 lg:mb-0">
-            <p className="mb-6 text-lg font-semibold text-gray-700">Fixtures</p>
+            <Link to="/fixtures">
+              <p className="mb-6 text-lg font-semibold text-gray-700">
+                Fixtures
+              </p>
+            </Link>
           </div>
           <div className="mb-8 lg:mb-0">
-            <p className="mb-6 text-lg font-semibold text-gray-700">Players</p>
+            <Link to="/players">
+              <p className="mb-6 text-lg font-semibold text-gray-700">
+                Players
+              </p>
+            </Link>
           </div>
           <div className="mb-8 lg:mb-0">
-            <p className="mb-6 text-lg font-semibold text-gray-700">Rankings</p>
+            <Link to="/Ranking">
+              <p className="mb-6 text-lg font-semibold text-gray-700">
+                Rankings
+              </p>
+            </Link>
           </div>
           <div className="mb-8 lg:mb-0">
-            <p className="mb-6 text-lg font-semibold text-gray-700">Feedback</p>
+            <Link to="/FeedbackForm">
+              <p className="mb-6 text-lg font-semibold text-gray-700">
+                Feedback
+              </p>
+            </Link>
           </div>
           <div className="mb-8 lg:mb-0">
-            <p className="mb-6 text-lg font-semibold text-gray-700">
-              Contact Us
-            </p>
+            <Link to="/ContactUsForm">
+              <p className="mb-6 text-lg font-semibold text-gray-700">
+                Contact Us
+              </p>
+            </Link>
           </div>
         </div>
       </footer>
