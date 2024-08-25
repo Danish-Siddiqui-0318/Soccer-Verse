@@ -17,13 +17,13 @@ const MainSec = () => {
           Date : 27 Oct 2024
         </p>
         <p className="text-white text-base sm:text-lg md:text-xl mt-4">
-         Time : 20:00
+          Time : 20:00
         </p>
         <p className="text-white text-base sm:text-lg md:text-xl mt-4">
-       Stadium : Santiago Bernabeu
+          Stadium : Santiago Bernabeu
         </p>
         <p className="text-white text-base sm:text-lg md:text-xl mt-4">
-       Live Score 0 : 0
+          Live Score 0 : 0
         </p>
       </div>
     </div>

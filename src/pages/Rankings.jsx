@@ -2,7 +2,6 @@ import React from "react";
 import Navbar from "../components/Navbar/Navbar";
 import { top10SoccerPlayers, soccerTeams } from "../assets/data.js";
 import Footer from "../components/Footer/Footer.jsx";
-import { Link } from "react-router-dom";
 
 const Rankings = () => {
   const currentDate = new Date();
