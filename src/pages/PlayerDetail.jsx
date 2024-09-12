@@ -13,11 +13,9 @@ const PlayerDetail = () => {
       (player) => player.id === parseInt(id)
     );
     setPlayer(foundPlayer);
-    console.log(foundPlayer);
   }, [id]);
 
   if (!player) return <h2>Loading...</h2>;
-
   return (
     <>
       <Navbar />
